@@ -9,7 +9,7 @@
 		"excerpt": "",
 		"price": "$0.77",
 		"link": "https://www.youtube.com/watch?v=DoK8HXMSsNg",
-		"waybacklink": "",
+		"waybacklink": "https://archive.org/details/DontBuyBitcoins",
 		"slug": "niels-van-der-linden"
 	},
   {
@@ -409,6 +409,18 @@
 		"slug": "jeremy-allaire"
 	},
 	{
+		"name": "Timothy B. Lee",
+		"title": "Senior correspondent, technology and economics, Lead writer for \"New Money\", Vox Media",
+		"article": "Bitcoin was supposed to change the world. What happened?",
+		"date": "November 21, 2016",
+		"source": "Vox Media",
+		"excerpt": "What went wrong? The Bitcoin community has been hampered by a dysfunctional culture that has grown increasingly hostile toward experimentation. That has made it difficult for the Bitcoin network to keep up with changing market demands...Bitcoin's larger problem may be that it just doesn’t solve any problems normal people have.",
+		"price": "$736.72",
+		"link": "https://www.vox.com/new-money/2016/11/21/13669662/bitcoin-ethereum-future-explained",
+		"waybacklink": "https://web.archive.org/web/20170207210258/http://www.vox.com/new-money/2016/11/21/13669662/bitcoin-ethereum-future-explained",
+		"slug": "timothy-b-lee"
+	},
+	{
 		"name": "Dan McCrum",
 		"title": "Editor, Financial Times",
 		"article": "Bitcoin passes $1,000 but only number that matters is zero",
@@ -419,5 +431,54 @@
 		"link": "https://www.ft.com/content/b5d66ed8-d1b3-11e6-b06b-680c49b4b4c0",
 		"waybacklink": "https://archive.is/ERZIq",
 		"slug": "dan-mccrum"
-	}]
+	},
+	{
+		"name": "Raoul Pal",
+		"title": "Macro Strategist, GMI",
+		"article": "Bitcoin Is Mania, Not a Store of Value… I Sold-Out Last Week",
+		"date": "June 2, 2017",
+		"source": "Mauldin Economics",
+		"excerpt": "Bitcoin was supposed to be a store of value, you couldn’t mess with the formula… and now they are talking about a ‘hard fork’ changing it? Even if they don’t change the formula, the fact that they could? That’s enough to say it’s not a long-term store of value.",
+		"price": "$2519.80",
+		"link": "http://www.mauldineconomics.com/editorial/raoul-pal-bitcoin-is-mania-and-not-a-store-of-value-i-sold-out-last-week",
+		"waybacklink": "https://web.archive.org/web/20170614022441/http://www.mauldineconomics.com/editorial/raoul-pal-bitcoin-is-mania-and-not-a-store-of-value-i-sold-out-last-week",
+		"slug": "raoul-pal"
+	},
+	{
+		"name": "Howard Marks",
+		"title": "Co-chairman, Oaktree Capital",
+		"article": "Billionaire investor Marks, who called the dotcom bubble, says bitcoin is a 'pyramid scheme'",
+		"date": "July 26, 2017",
+		"source": "CNBC",
+		"excerpt": "In my view, digital currencies are nothing but an unfounded fad (or perhaps even a pyramid scheme), based on a willingness to ascribe value to something that has little or none beyond what people will pay for it.",
+		"price": "$2522.70",
+		"link": "http://www.cnbc.com/2017/07/26/billionaire-investor-marks-who-called-the-dotcom-bubble-says-bitcoin-is-a-pyramid-scheme.html",
+		"waybacklink": "https://web.archive.org/web/20170727003853/http://www.cnbc.com/2017/07/26/billionaire-investor-marks-who-called-the-dotcom-bubble-says-bitcoin-is-a-pyramid-scheme.html",
+		"slug": "howard-marks"
+	},
+	{
+		"name": "Kenneth Rogoff",
+		"title": "Professor of Economics and Public Policy, Harvard University; Former Chief Economist, IMF",
+		"article": "Bitcoin's price bubble will burst under government pressure",
+		"date": "October 9, 2017",
+		"source": "The Guardian",
+		"excerpt": "My best guess is that in the long run, the technology will thrive, but that the price of bitcoin will collapse.",
+		"price": "$4808.73",
+		"link": "https://www.theguardian.com/technology/news-blog/2017/oct/09/bitcoin-price-bubble-government-cryptocurrency",
+		"waybacklink": "http://web.archive.org/web/20171009143553/https://www.theguardian.com/technology/news-blog/2017/oct/09/bitcoin-price-bubble-government-cryptocurrency",
+		"slug": "kenneth-rogoff"
+	},
+	{
+		"name": "Al-Waleed Bin Talal bin Abdulaziz al Saud",
+		"title": "Citigroup shareholder",
+		"article": "Prince Alwaleed says bitcoin will implode: 'Enron in the making'",
+		"date": "October 23, 2017",
+		"source": "CNBC",
+		"excerpt": "I just don't believe in this bitcoin thing. I think it's just going to implode one day. I think this is Enron in the making.",
+		"price": "$6018.02",
+		"link": "http://fortune.com/2017/10/23/bitcoin-price-enron-saudi-prince/",
+		"waybacklink": "http://web.archive.org/web/20171023122414/https://www.cnbc.com/2017/10/23/prince-alwaleed-says-bitcoin-will-implode-enron-in-the-making.html",
+		"slug": "al-waleed"
+	}
+	]
 }

@@ -1,6 +1,24 @@
 {
   "blogposts": [
     {
+      "title": "Economics of Bitcoin as a Settlement Network",
+      "author": "saifedean-ammous",
+      "date": "May 19, 2017",
+      "added": "November 8, 2017",
+      "slug": "economics-of-bitcoin-as-a-settlement-network",
+      "excerpt": "From the settlement layer view, the growing adoption of Bitcoin is increasing its liquidity internationally, allowing it to compete with global reserve currencies for increasingly more valuable transactions, causing transaction fees to rise.",
+      "languages": "en, es"
+    },
+    {
+      "title": "Against the Minimum Majority Measure",
+      "author": "david-a-harding",
+      "date": "July 28, 2017",
+      "added": "July 29, 2017",
+      "slug": "against-the-minimum-majority-measure",
+      "excerpt": "I personally suspect that Bitcoin’s steadily improving privacy will prevent us from ever measuring decentralization in a truly objective way. Losing easy quantification but gaining stronger privacy seems like a good tradeoff to me.",
+      "languages": "en"
+    },
+    {
       "title": "Why the Bitcoin Dominance Index is Deceiving",
       "author": "jimmy-song",
       "date": "May 8, 2017",
@@ -160,7 +178,7 @@
         "added": "September 11, 2014",
         "slug": "everyones-a-scammer",
         "excerpt": "There is a war going on for your bitcoins, and willpower is your only defense.",
-        "languages": "en"
+        "languages": "en, es"
     },
     {
         "title": "Bitcoin: Killer of Nietzschean Nihilism",
@@ -178,7 +196,7 @@
         "added": "July 4, 2014",
         "slug": "speculative-attack",
         "excerpt": "Bitcoin will overtake weak currencies like the dollar through speculative attacks and currency crises, not through the careful evaluation of tech journalists and 'mainstream consumers'.",
-        "languages": "en, es"
+        "languages": "en, es, ru"
     },
     {
         "title": "Bitcoin's Shroud of Subtlety and Allure",
@@ -196,15 +214,6 @@
         "added": "June 29, 2014",
         "slug": "bitcoins-rugged-individualism",
         "excerpt": "There is a fundamental agency problem with Bitcoin: agents can disappear or simulate a heist upon themselves. They cannot rationally be trusted without extreme costs being imposed on them which are more stringent than traditional banks.",
-        "languages": "en"
-    },
-    {
-        "title": "Anarchist Strategy",
-        "author": "daniel-krawisz",
-        "date": "June 12, 2014",
-        "added": "June 12, 2014",
-        "slug": "anarchist-strategy",
-        "excerpt": "The strength of the state is the perception of strength. No matter how vast and powerful it appears, the state can always be destroyed in a moment.",
         "languages": "en"
     },
     {
@@ -259,7 +268,7 @@
         "added": "March 29, 2014",
         "slug": "hyperbitcoinization",
         "excerpt":"Government currencies will rapidly lose value as Bitcoin supplants it. What will such an event be like and how can it be understood economically?",
-        "languages": "en, es"
+        "languages": "en, de, es, ru"
     },
     {
         "title": "The Coming Demise of the Altcoins (And What You Can Do to Hasten It)",
@@ -286,7 +295,7 @@
         "added": "February 12, 2014",
         "slug": "im-hoarding-bitcoins-and-no-you-cant-have-any",
         "excerpt":"The real hero is the hoarder.",
-        "languages": "en"
+        "languages": "en, es"
     },
     {
         "title": "Why Bitcoin Will Continue to Grow",
@@ -304,15 +313,6 @@
         "added": "January 28, 2014",
         "slug": "i-love-bitcoins-volatility",
         "excerpt": "Those who worry about Bitcoin’s volatility fail to understand what it actually means for Bitcoin.",
-        "languages": "en"
-    },
-    {
-        "title": "Why Anarchy?",
-        "author": "daniel-krawisz",
-        "date": "December 31, 2013",
-        "added": "December 31, 2013",
-        "slug": "why-anarchy",
-        "excerpt":"Anarchism is not extremism: it is simply correct.",
         "languages": "en"
     },
     {
@@ -412,7 +412,7 @@
         "added": "February 19, 2013",
         "slug": "end-the-fed-hoard-bitcoins",
         "excerpt":"Low transaction costs make Bitcoin the most competitive medium of exchange in humanity’s history, and it may be the case that a currency with even lower transaction costs is theoretically impossible.",
-        "languages": "en"
+        "languages": "en, es"
     },
     {
         "title": "Working and Saving are Revolutionary Acts",
